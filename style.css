@@ -1,0 +1,32 @@
+#login-area{
+    padding: 100px;
+}
+.loginarea{
+    margin-top:50px;
+    box-shadow: 2px 2px 5px gray;
+    padding: 50px;
+}
+#transcationarea{
+    display: none;
+    margin-top: 50px;
+}
+.status{
+    margin: 0 20px;
+    padding: 20px ;
+    margin-top: 50px;
+    border-radius: 8px ;
+    
+    box-shadow: 2px 2px 5px gray;
+}
+.deposit{
+    background-color: blueviolet;
+    color: white;
+}
+.withdraw{
+    background-color: chocolate;
+    color: white;
+}
+.balance{
+    background-color: mediumturquoise;
+    color: white;
+}
